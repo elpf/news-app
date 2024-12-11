@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "com.modul2.mobile_codelab_md2"
-    compileSdk = flutter.compileSdkVersion
+    compileSdkVersion 34
     ndkVersion = flutter.ndkVersion
 
     compileOptions {
